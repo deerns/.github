@@ -1,2 +1,2 @@
 # .github
-Public Description of Deerns GitHub :smile
+Public Description of Deerns GitHub
