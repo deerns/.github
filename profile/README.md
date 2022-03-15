@@ -5,7 +5,7 @@
  
 
 <details>
-<summary> ### Users</summary>
+<summary> <pre>### Users<pre> </summary>
 <br>
  - [Geert van Gorp](https://github.com/orgs/deerns/people/gvangorp) - Digitalisation Manager and Product Owner for Design Automation Projects, like the Deerns Toolkit, 
  - [Sipan Salim](https://github.com/orgs/deerns/people/sipaan) - Product Owner for the client facing ditigal products, like the DDD, Well Quickscan, Living Lab,
@@ -13,7 +13,7 @@
  - [Christina Papachristou](https://github.com/orgs/deerns/people/christinapapachristou) - Data Analyst and Owner of the Deerns Living Lab and bGrid API calls.
 <details>
  
- <details>
+<details>
 <summary>  ### Web Repositories</summary>
 <br>
 
