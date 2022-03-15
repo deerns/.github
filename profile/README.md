@@ -20,36 +20,36 @@
 </details>
 
  <details>
-<summary><b>client Faced Repositories</b></summary>
+<summary><b>Client Faced Digital Product Repositories</b></summary>
  <!-- leave a blank line -->
  
-- [well_prototype](well_prototype) - prototype of the Well Quickscan app.
-- [livinglab](livinglab) - livinglab frontend prototype repo
-- [bGridAPI](bGridAPI) - package and utilities to expose, fetch and store data from the bGridAPI
-- [tsdb-api](tsdb-api) - api to expose timescale data, and other uses, using flask and azure functions
+- [well_prototype](/../../../well_prototype) - prototype of the Well Quickscan app.
+- [livinglab](/../../../livinglab) - livinglab frontend prototype repo
+- [bGridAPI](/../../../bGridAPI) - package and utilities to expose, fetch and store data from the bGridAPI
+- [tsdb-api](/../../../tsdb-api) - api to expose timescale data, and other uses, using flask and azure functions
 </details>
 
 <details>
 <summary><b>Design Automation Repositories</b></summary>
  <!-- leave a blank line -->
  
-- [PowerApps_DesignFeeCalc](PowerApps_DesignFeeCalc) - Design Fee App in PowerApps. Also known as "Honorarium Berekening" in Dutch
-- [design_automation](design_automation) - Repo for all Design Automation Apps
-- [DeernsAddinForRevit](DeernsAddinForRevit) - The Source Code for all Deerns' Revit tools
-- [DeernsAddinForAutoCAD](DeernsAddinForAutoCAD) - The Source Code for all Deerns' AutoCAD tools
-- [REVITPluginMAT5](REVITPluginMAT5) - The Source Code for the BREEAM Mat-05 Credit Generator for Revit by Vyshali Sim.
-- [bhs](bhs) - Bagage Handling Systems Repo by Pieter van der Kuil and Ivar Bal.
-- [Forge](Forge) - Autodesk Forge Repo
+- [PowerApps_DesignFeeCalc](/../../../PowerApps_DesignFeeCalc) - Design Fee App in PowerApps. Also known as "Honorarium Berekening" in Dutch
+- [design_automation](/../../../design_automation) - Repo for all Design Automation Apps
+- [DeernsAddinForRevit](/../../../DeernsAddinForRevit) - The Source Code for all Deerns' Revit tools
+- [DeernsAddinForAutoCAD](/../../../DeernsAddinForAutoCAD) - The Source Code for all Deerns' AutoCAD tools
+- [REVITPluginMAT5](/../../../REVITPluginMAT5) - The Source Code for the BREEAM Mat-05 Credit Generator for Revit by Vyshali Sim.
+- [bhs](/../../../bhs) - Bagage Handling Systems Repo by Pieter van der Kuil and Ivar Bal.
+- [Forge](/../../../Forge) - Autodesk Forge Repo
 </details>
 
 <details>
 <summary><b>Business Intelligence Repositories</b></summary>
  <!-- leave a blank line -->
  
-- [MS365](MS365) - Stuff for MS365 including Teams, Sharepoint etc.
-- [DigitalWorkspaceManager](DigitalWorkspaceManager) - Server-side Blazor app to manage Digital Workspace teams
-- [PowerApps_AppStore](PowerApps_AppStore) - Deerns App Store
-- [DeernsAddinForOffice](DeernsAddinForOffice) - Office Addins
+- [MS365](/../../../MS365) - Stuff for MS365 including Teams, Sharepoint etc.
+- [DigitalWorkspaceManager](/../../../DigitalWorkspaceManager) - Server-side Blazor app to manage Digital Workspace teams
+- [PowerApps_AppStore](/../../../PowerApps_AppStore) - Deerns App Store
+- [DeernsAddinForOffice](/../../../DeernsAddinForOffice) - Office Addins
 </details>
 
 <details>
