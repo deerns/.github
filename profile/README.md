@@ -3,10 +3,8 @@
  ## Welcome to Deerns GitHub 👋
  This repository is to store and exchange all source code we use at Deerns.
  
-
+### Users
 <details>
-<summary> <pre>### Users<pre> </summary>
-<br>
  - [Geert van Gorp](https://github.com/orgs/deerns/people/gvangorp) - Digitalisation Manager and Product Owner for Design Automation Projects, like the Deerns Toolkit, 
  - [Sipan Salim](https://github.com/orgs/deerns/people/sipaan) - Product Owner for the client facing ditigal products, like the DDD, Well Quickscan, Living Lab,
  - [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications.
