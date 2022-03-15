@@ -15,6 +15,11 @@
  - [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications.
  - [Christina Papachristou](https://github.com/orgs/deerns/people/christinapapachristou) - Data Analyst and Owner of the Deerns Living Lab and bGrid API calls.
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+
 ### Technology Stack
 - [Supabase](https://app.supabase.io/) - Backend database to store our required SQL tables for the web apps.
 - [Timescale](https://www.timescale.com/) - Database to optimally store the realtime sensor data
@@ -26,7 +31,7 @@
  - [Power Apps](https://make.powerapps.com/)
  - [Azure Active Directory](https://portal.azure.com/)
 - [Autodesk Forge](https://developer.autodesk.com/)
-
+</details>
 
 <!--
 
