@@ -1,6 +1,33 @@
  <img src="https://github.com/deerns/.github/blob/main/deerns_icon_big.png" width="100">
  
  ## Welcome to Deerns GitHub 👋
+ This repository is to store and exchange all source code we use at Deerns.
+ 
+ ### Web Repositories:
+- d
+
+ ### Desktop Repositories:
+- d
+
+ ### Users
+ - [Geert van Gorp](https://github.com/orgs/deerns/people/gvangorp) - Digitalisation Manager and Product Owner for Design Automation Projects, like the Deerns Toolkit, 
+ - [Sipan Salim](https://github.com/orgs/deerns/people/sipaan) - Product Owner for the client facing ditigal products, like the DDD, Well Quickscan, Living Lab,
+ - [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications.
+ - [Christina Papachristou](https://github.com/orgs/deerns/people/christinapapachristou) - Data Analyst and Owner of the Deerns Living Lab and bGrid API calls.
+
+### Technology Stack
+- [Supabase](https://app.supabase.io/) - Backend database to store our required SQL tables for the web apps.
+- [Timescale](https://www.timescale.com/) - Database to optimally store the realtime sensor data
+- [Svelte Kit](https://kit.svelte.dev/) - Interface Builder and Host for the web apps.
+- [Figma](https://www.figma.com/) - UX/UI Design Platform
+- MS Office Apps:
+ - [Power BI](https://app.powerbi.com/)
+ - [Power Automate / Flow](https://emea.flow.microsoft.com/)
+ - [Power Apps](https://make.powerapps.com/)
+ - [Azure Active Directory](https://portal.azure.com/)
+- [Autodesk Forge](https://developer.autodesk.com/)
+
+
 <!--
 
 **Here are some ideas to get you started:**
