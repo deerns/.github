@@ -3,24 +3,33 @@
  ## Welcome to Deerns GitHub 👋
  This repository is to store and exchange all source code we use at Deerns.
  
- ### Web Repositories:
-- d
 
- ### Desktop Repositories:
-- d
-
- ### Users
+<details>
+<summary> ### Users</summary>
+<br>
  - [Geert van Gorp](https://github.com/orgs/deerns/people/gvangorp) - Digitalisation Manager and Product Owner for Design Automation Projects, like the Deerns Toolkit, 
  - [Sipan Salim](https://github.com/orgs/deerns/people/sipaan) - Product Owner for the client facing ditigal products, like the DDD, Well Quickscan, Living Lab,
  - [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications.
  - [Christina Papachristou](https://github.com/orgs/deerns/people/christinapapachristou) - Data Analyst and Owner of the Deerns Living Lab and bGrid API calls.
-
 <details>
-<summary>How do I dropdown?</summary>
+ 
+ <details>
+<summary>  ### Web Repositories</summary>
 <br>
-This is how you dropdown.
 
-### Technology Stack
+- d
+ <details>
+ 
+  <details>
+<summary>   ### Desktop Repositories</summary>
+<br>
+
+- d
+ <details>
+ 
+<details>
+<summary>### Technology Stack</summary>
+<br>
 - [Supabase](https://app.supabase.io/) - Backend database to store our required SQL tables for the web apps.
 - [Timescale](https://www.timescale.com/) - Database to optimally store the realtime sensor data
 - [Svelte Kit](https://kit.svelte.dev/) - Interface Builder and Host for the web apps.
