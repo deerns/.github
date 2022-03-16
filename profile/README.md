@@ -17,7 +17,7 @@
 - [Vyshali Simhachalam](https://github.com/orgs/deerns/people/Vyshali-Simhachalam) - C# programmer for the BREEAM Mat-05 for Revit addin.
 - [Pieter van der Kuil](https://github.com/orgs/deerns/people/pvdkuil) - Product Owner for the Bagage Handling System project.
 - [Ivar Bal](https://github.com/orgs/deerns/people/IvarBal) - Python programmer for the Bagage Handling System project.
-- [Kwame Gyampoh] (https://github.com/orgs/deerns/people/kaykwame) - Junior Web Developer
+- [Kwame Gyampoh](https://github.com/orgs/deerns/people/kaykwame) - Junior Web Developer
 </details>
 
  <details>
