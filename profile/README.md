@@ -69,7 +69,7 @@
      - [Power Apps](https://make.powerapps.com/)
      - [Azure Active Directory](https://portal.azure.com/)
 - [Autodesk Forge](https://developer.autodesk.com/)
-- [Blender]`(https://www.blender.org/) - open source 3D modeling desktop application
+- [Blender](https://www.blender.org/) - open source 3D modeling desktop application
 </details>
 <!--
 
