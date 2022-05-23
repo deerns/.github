@@ -9,8 +9,7 @@
  <!-- leave a blank line -->
  
 - [Sipan Salim](https://github.com/orgs/deerns/people/sipaan) - Product Owner for the client facing ditigal products, like the DDD, Well Quickscan, Living Lab,
-- [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications.
-- [Christina Papachristou](https://github.com/orgs/deerns/people/christinapapachristou) - Data Analyst and Owner of the Deerns Living Lab and bGrid API calls.
+- [Lorenzo Donadio](https://github.com/orgs/deerns/people/lorenzodonadio) - Data Analyst and Software Developer for the Well Quickscan and other desktop applications, Owner of the Deerns Living Lab.
 - [Geert van Gorp](https://github.com/orgs/deerns/people/gvangorp) - Digitalisation Manager and Product Owner for Design Automation Projects, like the Deerns Toolkit, 
 - [Sandor Czegledi](https://github.com/orgs/deerns/people/cypherunknown) - C# developer for the AutoCAD/Revit desktop addins, and MS Graph for Digital Workspace.
 - [Louise Scholl](https://github.com/orgs/deerns/people/LouiseScholl) - UX designer for the Well Quickscan.
